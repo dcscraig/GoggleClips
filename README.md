@@ -15,9 +15,6 @@ The clips are designed to be single use and should be disposed of with the goggl
 
 ![Image of clips attached to goggles](https://github.com/dcscraig/GoggleClips/blob/master/final_assembly.png)
 
-
-
-
 ## Ordering
 
 Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 Production is limited to 300 a day and a contribution for postage and material costs would be greatly appreciated. It is my intention that any contributions will be donated to my local schools. Preferably if you have access to a 3d printer the stl file is included in this repo. 
@@ -40,6 +37,11 @@ Top/Bottom Layers: 2
 Infill: +5%
 
 For your initial prototype try squeezing the two walls of the clip, they should withstand a high degree of force.
+
+
+![Image of clips being printed on two 3d printers](https://github.com/dcscraig/GoggleClips/blob/master/printing.jpg)
+
+
 
 ## Donating prints to NHS
 
