@@ -24,9 +24,9 @@ Any healthcare professional in Scotland can order clips here -> https://forms.gl
 
 ## Attaching Clips
 
-This youtube video shows the basic idea (https://youtu.be/92u9Z6GJIE8). WARNING it is very boring.
+This video shows the basic idea (https://youtu.be/92u9Z6GJIE8). WARNING it is very boring.
 
-This youtube video explains how to attach the clips on to the goggles (https://www.youtube.com/watch?v=ZA3ka8afu0U).
+This video explains how to attach the clips on to the goggles (https://www.youtube.com/watch?v=ZA3ka8afu0U).
 
 ## Print Settings
 
