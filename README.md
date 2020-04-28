@@ -1,4 +1,38 @@
 # GoggleClips
-3D printable clips that improves the fit of NHS-provided PPE goggles. ]
 
-Hopefully this updates!
+GoogleClips are 3D printable clips that improve the fit of NHS-provided PPE goggles. The goggles, as provided, have a tendancy to fall of the face of the wearer especially when they look down. These clips reinforce a joint in the leg of the goggles that improves their fit. The clips are designed to be single use and should be disposed of with the goggles they are attached to. Over 3000 of the clips have been manufactured and distributed to healthcare staff in NHS Highland with many being used in Skye and Lochalsh. 
+
+## Ordering
+
+Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 . If you have access to a 3d printer the stl file is included in this repo. 
+
+## Attaching Clips
+
+This youtube video shows the basic idea (https://youtu.be/92u9Z6GJIE8). WARNING very boring.
+
+This youtube video explains how to attach the clips on to the goggles (https://www.youtube.com/watch?v=ZA3ka8afu0U).
+
+## Print Settings
+
+Material: PLA (PETG is known not to work).
+
+Layer Height: 0.3 mm
+Perimeters: 2
+Top/Bottom Layers: 2
+Infill: +5%
+
+For your initial prorotype try squeezing the two walls of the clip, they should withstand a high degree of force.
+
+## Donating prints to NHS
+
+Firstly talk to your local healthcare professionals about their needs and if they need your help. I recommend that you read through https://www.prusa3d.com/covid19/ to get an idea of measures you can take to limit the risk of spreading Covid19 through 3D printing. Your local healthcare professionals may have guidleines for you to follow. Please consider that your local healthcare professionals may be rather busy and may not be able to accept your help.   
+
+## Authors
+
+* **Craig Stewart** - *Initial work* - (https://github.com/dcscraig)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GoggleClips</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dcscraig/GoggleClips" property="cc:attributionName" rel="cc:attributionURL">Craig Stewart</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/dcscraig/GoggleClips" rel="dct:source">https://github.com/dcscraig/GoggleClips</a>.
