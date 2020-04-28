@@ -14,6 +14,8 @@ This youtube video explains how to attach the clips on to the goggles (https://w
 
 ## Print Settings
 
+These settings are known to work on Prusa i3 Mk3 printers.
+
 Material: PLA (PETG is known not to work).
 
 Layer Height: 0.3 mm
@@ -21,7 +23,7 @@ Perimeters: 2
 Top/Bottom Layers: 2
 Infill: +5%
 
-For your initial prorotype try squeezing the two walls of the clip, they should withstand a high degree of force.
+For your initial prototype try squeezing the two walls of the clip, they should withstand a high degree of force.
 
 ## Donating prints to NHS
 
