@@ -20,7 +20,7 @@ The clips are designed to be single use and should be disposed of with the goggl
 
 ## Ordering
 
-Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 Production is limited to 300 a day and a contribution for postage and material costs would be greatly appreciated. It is my intention that any contributions will be donated to my local schoosls. Preferably if you have access to a 3d printer the stl file is included in this repo. 
+Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 Production is limited to 300 a day and a contribution for postage and material costs would be greatly appreciated. It is my intention that any contributions will be donated to my local schools. Preferably if you have access to a 3d printer the stl file is included in this repo. 
 
 ## Attaching Clips
 
