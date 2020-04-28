@@ -8,7 +8,7 @@ GoogleClips are 3D printable clips that improve the fit of NHS-provided PPE gogg
 
 The goggles, as provided, have a tendancy to fall of the face of the wearer especially when they look down. These clips reinforce the joint in the leg of the goggles that improves their fit. 
 
-![Image of single clip upside down](https://github.com/dcscraig/GoggleClips/blob/master/single.jpg)
+![Image of single clip upside down](https://github.com/dcscraig/GoggleClips/blob/master/single.png)
 
 The clips are designed to be single use and should be disposed of with the goggles they are attached to. Over 3000 of the clips have been manufactured and distributed to healthcare staff in NHS Highland with many being used in Skye and Lochalsh. 
 
