@@ -4,11 +4,11 @@ GoogleClips are 3D printable clips that improve the fit of NHS-provided PPE gogg
 
 ## Ordering
 
-Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 . If you have access to a 3d printer the stl file is included in this repo. 
+Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 Production is limited to 300 a day and a contribution for postage and material costs would be greatly appreciated. It is my intention that any contributions will be donated to my local schoosls. Preferably if you have access to a 3d printer the stl file is included in this repo. 
 
 ## Attaching Clips
 
-This youtube video shows the basic idea (https://youtu.be/92u9Z6GJIE8). WARNING very boring.
+This youtube video shows the basic idea (https://youtu.be/92u9Z6GJIE8). WARNING it is very boring.
 
 This youtube video explains how to attach the clips on to the goggles (https://www.youtube.com/watch?v=ZA3ka8afu0U).
 
@@ -27,7 +27,9 @@ For your initial prototype try squeezing the two walls of the clip, they should 
 
 ## Donating prints to NHS
 
-Firstly talk to your local healthcare professionals about their needs and if they need your help. I recommend that you read through https://www.prusa3d.com/covid19/ to get an idea of measures you can take to limit the risk of spreading Covid19 through 3D printing. Your local healthcare professionals may have guidleines for you to follow. Please consider that your local healthcare professionals may be rather busy and may not be able to accept your help.   
+Firstly talk to your local healthcare professionals about their needs and if they need your help. I recommend that you read through https://www.prusa3d.com/covid19/ to get an idea of measures you can take to limit the risk of spreading Covid19 through 3D printing. Your local healthcare professionals may have guidleines for you to follow. Please consider that your local healthcare professionals may be rather busy and may not be able to accept your help. 
+
+This design has not been formally approved but I have been in contact with NHS Highland Procurement regarding the provision of the clips to my local healthcare professionals.
 
 ## Authors
 
