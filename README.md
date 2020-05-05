@@ -15,10 +15,6 @@ The clips are designed to be single use and should be disposed of with the goggl
 
 ![Image of clips attached to goggles](https://github.com/dcscraig/GoggleClips/blob/master/final_assembly.png)
 
-## Ordering
-
-Any healthcare professional in Scotland can order clips here -> https://forms.gle/yvxxf9eWfUMuvDma9 Production is limited to 300 a day and a contribution for postage and material costs would be greatly appreciated. It is my intention that any contributions will be donated to my local schools. Preferably if you have access to a 3d printer the stl file is included in this repo. 
-
 ## Attaching Clips
 
 This video shows the basic idea (https://youtu.be/92u9Z6GJIE8). WARNING it is very boring.
@@ -54,7 +50,5 @@ This design has not been formally approved but I have been in contact with NHS H
 * **Craig Stewart** - *Initial work* - (https://github.com/dcscraig)
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GoggleClips</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dcscraig/GoggleClips" property="cc:attributionName" rel="cc:attributionURL">Craig Stewart</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/dcscraig/GoggleClips" rel="dct:source">https://github.com/dcscraig/GoggleClips</a>.
